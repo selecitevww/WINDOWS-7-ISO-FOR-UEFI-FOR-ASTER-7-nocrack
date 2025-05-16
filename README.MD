@@ -16,3 +16,6 @@ LANGUAGE OS: ENGLISH
 
 DDU 15.0.X для переустановки видеокарты:
 > https://drive.google.com/file/d/1_fu82j1ofNyRY7QeLrYQaikTd3Xwpx3x/view?usp=sharing
+
+DDU 18.0.X для переустановки видеокарты и звука современных систем:
+> https://drive.google.com/file/d/10UfYF52KDjUJ4Wk8mM7hb0eRjdOQtV6W/view?usp=sharing
